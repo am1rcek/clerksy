@@ -383,7 +383,7 @@ header {
 
 }
 #started-page{
-  background-image: url('/Front-end-lesson/vazifalar/darsdagi/clerksy/img/backround.svg');
+  background-image: url("../img/backround.svg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 114px;
