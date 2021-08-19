@@ -499,6 +499,9 @@ header {
 }
 .customer-item{
   list-style: none;
+}
+.customer-item a{
+  text-decoration: none;
   font-size: 14px;
   line-height: 19px;
   text-align: right;
